@@ -48,11 +48,8 @@ I am a 4th-year student at NSU <img src="https://media.giphy.com/media/WUlplcMpO
 </div>
 
 ---
-
 ### 📊 GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aegyost&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegyost&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aegyost" alt="GitHub Streak Stats"/>
 </div>
