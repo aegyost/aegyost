@@ -50,6 +50,4 @@ I am a 4th-year student at NSU <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 ### 📊 GitHub Stats :
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aegyost" alt="GitHub Streak Stats"/>
-</div>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aegyost)
