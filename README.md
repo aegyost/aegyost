@@ -11,21 +11,7 @@
   <a href="https://github.com/aegyost">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="mailto:s.kim3@g.nsu.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
-
----
-
-### 👨‍🎓 About Me :
-
-I am a 4th-year student at NSU <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :telescope: I’m currently working on my graduation project in Natural Language Processing and Explainable AI
-- :seedling: I’m deepening my knowledge in system design and microservices architecture
-- :bulb: My research focuses on hybrid neural-symbolic models for emotion analysis, combining deep learning with ontological verification
-- :rocket: I’m exploring ways to integrate ontological reasoning into NLP pipelines for more reliable and explainable outcomes
 
 ---
 
@@ -47,8 +33,3 @@ I am a 4th-year student at NSU <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
-
----
-### 📊 GitHub Stats :
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aegyost)
